@@ -39,8 +39,3 @@ api-receitas/
 
 -npm install --save-dev @types/cors
 -npm run dev
-
-
-
---Pasta receita
-
